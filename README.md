@@ -1,7 +1,7 @@
 # TLS_Examples
 Visual Studio Solution consisting of 2 Projects: TLS_Static and TLS_Dynamic.
 
-These server as examples of Static and Dynamic Thread Local Storage for code execution prior to main(). Compiled and tested for 32 and 64 bit. Tested on Windows 10.
+These server as examples of Static and Dynamic Thread Local Storage (TLS) Callback creation. This can be used for code execution prior to main(). Compiled and tested for 32 and 64 bit. Tested on Windows 10.
 
 Note: The callback functions simply spawn a Message Box & output to consol debug information to help understand what is happening in memory.
 
