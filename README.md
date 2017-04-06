@@ -1,5 +1,5 @@
 # TLS_Examples
-The Visual Studio Solution consisting of 2 Projects: TLS_Static and TLS_Dynamic.
+Visual Studio Solution consisting of 2 Projects: TLS_Static and TLS_Dynamic.
 
 These server as examples of Static and Dynamic Thread Local Storage for code execution prior to main(). Compiled and tested for 32 and 64 bit. Tested on Windows 10.
 
